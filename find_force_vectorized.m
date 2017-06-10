@@ -1,3 +1,4 @@
+###
 function [f,U]=find_force_vectorized(N,D,NN,NL,L,pbc,r)
 EPSILON=1.032e-2;% in units of eV (only for Argon)
 SIGMA=3.405; % in units of Angstrom (only for Argon)
